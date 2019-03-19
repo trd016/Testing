@@ -23,3 +23,4 @@ int main() {
     if (kop == 0 && rub == 0) cout << "Nichego ne kupleno";
     return 0;
 }
+/* void Func(int arr[], int n) */
